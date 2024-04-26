@@ -22,7 +22,7 @@ def create_connection():
 
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot = telebot.TeleBot('7048190865:AAFLdlCEBmdR89Jt52f-ntILKt6MgXMGWf8')
+bot = telebot.TeleBot('7002591756:AAF87YmylqjFsVvGv95gqye5BAa3q4EtaoA')
 
 # Dictionary to store user registration data
 user_data = {}
