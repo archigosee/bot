@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@types/telegram-web-app": "^7.2.1"
+  }
+}
